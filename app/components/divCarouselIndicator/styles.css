@@ -1,0 +1,7 @@
+.my_title {
+  font-size: 2rem;
+}
+
+.progress-animation {
+  transition: width linear; /* Transition only the width, linearly */
+}
