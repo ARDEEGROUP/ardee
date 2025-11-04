@@ -798,7 +798,7 @@ export const NEWS_ARTICLES = [
     magazineSubTitle: "Shefali Varma Extends Support to Kochi Biennale Foundation as a Platinum Benefactor",
     pageInfo: "Page 46-55",
     images: [
-      "news/hindu",
+      "news/hindustan-times",
     ],
   },
 ];
