@@ -799,6 +799,7 @@ export const NEWS_ARTICLES = [
     pageInfo: "Page 46-55",
     images: [
       "news/hindustan-times",
+      "news/hindu",
     ],
   },
 ];
