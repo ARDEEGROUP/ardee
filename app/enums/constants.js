@@ -810,8 +810,8 @@ export const NEWS_ARTICLES = [
     magazineSubTitle: "Shefali Varma Joins the Advisory Council of the Kochi Biennale Foundation",
     pageInfo: "Page 46-55",
     images: [
-      "news/hindustan-times",
-      "news/hindu",
+      "news/sv-binale",
+      "news/sv-binale",
     ],
   },
 ];
