@@ -802,6 +802,18 @@ export const NEWS_ARTICLES = [
       "news/hindu",
     ],
   },
+   {
+    title: "The Ardee Foundation",
+    publishInfo: "2 Nov 2025",
+    publishingHouse: "mediaexpress24",
+    magazineTitle: "Art and Culture",
+    magazineSubTitle: "Shefali Varma Joins the Advisory Council of the Kochi Biennale Foundation",
+    pageInfo: "Page 46-55",
+    images: [
+      "news/hindustan-times",
+      "news/hindu",
+    ],
+  },
 ];
 
 export const ARDEE_GROUP_INSTAGRAM_LINK =
