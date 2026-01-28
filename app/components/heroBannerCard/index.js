@@ -132,7 +132,7 @@ location.pathname === "/real-estate/residential";
         <Button
           buttonText={"Upcoming Project"}
           containerClasses={"mt-0 mb-0"}
-          classes={"px-7 border border-black"}
+          classes={"px-7"}
           onClick={() => {
             console.log("Upcoming Project clicked");
           }}
