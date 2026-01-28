@@ -66,6 +66,7 @@ export default function RealEstateCommercial() {
       
 
       <div className="min-h-96 py-20 px-5 lg:px-10">
+        test one
         <div className="flex items-start flex-wrap w-full">
           <div className="w-full lg:w-1/2">
             <SideImageBgCard
