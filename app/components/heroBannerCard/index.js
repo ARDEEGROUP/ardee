@@ -52,6 +52,8 @@ export default function HeroBannerCard(props) {
       setShouldAnimateContent(true);
     }, 1000);
   };
+  const isResidentialPage =
+location.pathname === "/real-estate/residential";
 
   return (
     <div
@@ -124,6 +126,19 @@ export default function HeroBannerCard(props) {
               classes={"px-7"}
               onClick={() => item.action && item.action()}
             />
+
+
+                 {isResidentialPage && (
+        <Button
+          buttonText={"Upcoming Project"}
+          containerClasses={"mt-0 mb-0"}
+          classes={"px-7 border border-black"}
+          onClick={() => {
+            console.log("Upcoming Project clicked");
+          }}
+        />
+      )}
+            
           </div>
         </div>
       </div>
