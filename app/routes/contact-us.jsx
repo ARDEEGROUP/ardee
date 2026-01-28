@@ -93,8 +93,8 @@ const ContactUs = () => {
                   Contact Information
                 </h3>
                 <p className="text-zinc-400">
-                  Phone: <a href="tel:911145685035">+91-11-45685035</a> /{" "}
-                  <a href="tel:9266862777">+919266862777</a>
+                  Phone: <a href="tel:9266862777">+919266862777</a> /{" "}
+                 
                 </p>
                 <p className="text-zinc-400">
                   Email:{" "}
