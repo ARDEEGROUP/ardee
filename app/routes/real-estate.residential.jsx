@@ -57,12 +57,12 @@ export default function RealEstateCommercial() {
           index={0}
         />
       </div>
-
+<div>upcoming project</div>
       <div
         ref={knowMoreTargetRef}
         className="lg:pt-16 lg:-translate-y-16 invisible lg:-mb-16"
       >
-      <div>upcoming project</div>
+      
       </div>
 
       
