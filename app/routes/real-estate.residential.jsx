@@ -61,9 +61,11 @@ export default function RealEstateCommercial() {
       <div
         ref={knowMoreTargetRef}
         className="lg:pt-16 lg:-translate-y-16 invisible lg:-mb-16"
-      ></div>
-
+      >
       <div>upcoming project</div>
+      </div>
+
+      
 
       <div className="min-h-96 py-20 px-5 lg:px-10">
         
