@@ -134,7 +134,7 @@ location.pathname === "/real-estate/residential";
           href="/pdfs/upcoming-projects.pdf"   // <-- your PDF link
           target="_blank"
           rel="noopener noreferrer"
-          className="px-7 py-3 border border-white text-white rounded-md hover:bg-black hover:text-white transition"
+          className="px-7 py-3 border-2 border-white text-white rounded-full hover:bg-black hover:text-white transition"
         >
           Upcoming Project
         </a>
