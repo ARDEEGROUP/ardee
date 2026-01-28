@@ -63,6 +63,11 @@ export default function RealEstateCommercial() {
         className="lg:pt-16 lg:-translate-y-16 invisible lg:-mb-16"
       ></div>
 
+      <div
+        ref={knowMoreTargetRef}
+        className="lg:pt-16 lg:-translate-y-16 invisible lg:-mb-16"
+      ></div>
+
       <div className="min-h-96 py-20 px-5 lg:px-10">
         <div className="flex items-start flex-wrap w-full">
           <div className="w-full lg:w-1/2">
