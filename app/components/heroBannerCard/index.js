@@ -128,15 +128,16 @@ location.pathname === "/real-estate/residential";
             />
 
 
-                 {isResidentialPage && (
-        <Button
-          buttonText={"Upcoming Project"}
-          containerClasses={"mt-0 mb-0"}
-          classes={"px-7"}
-          onClick={() => {
-            console.log("Upcoming Project clicked");
-          }}
-        />
+                {/* Anchor button ONLY on residential page */}
+      {isResidentialPage && (
+        <a
+          href="/pdfs/upcoming-projects.pdf"   // <-- your PDF link
+          target="_blank"
+          rel="noopener noreferrer"
+          className="px-7"
+        >
+          Upcoming Project
+        </a>
       )}
             
           </div>
