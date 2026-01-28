@@ -63,7 +63,7 @@ export default function RealEstateCommercial() {
         className="lg:pt-16 lg:-translate-y-16 invisible lg:-mb-16"
       ></div>
 
-      
+      <div>upcoming project</div>
 
       <div className="min-h-96 py-20 px-5 lg:px-10">
         
@@ -77,7 +77,7 @@ export default function RealEstateCommercial() {
 
           <div className="w-full lg:w-1/2 flex flex-col lg:pl-16">
             <div className="text-[min(min(3rem,12vw),5rem)] leading-[min(min(3.2rem,12.4vw),5.2rem)] font-extrabold font-times text-white mt-10">
-             test one
+             
               At Ardee Group
             </div>
 
