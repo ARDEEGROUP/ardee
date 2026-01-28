@@ -27,11 +27,11 @@ export const ROUTES = [
     to: "/sports",
     iconKey: "user-group",
   },
-  {
+  /*{
     label: "CCA",
     to: "/cca",
     iconKey: "paint-brush",
-  },
+  },*/
   {
     label: "About Us",
     to: "/about-us",
