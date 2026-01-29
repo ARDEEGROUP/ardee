@@ -137,7 +137,7 @@ location.pathname === "/real-estate/residential";
           className="py-3 border border-white text-white rounded-full hover:bg-black hover:text-white transition"
           
         >
-          Upcoming Project
+          UPCOMING PROJECT BROCHURE
         </a>
       )}
             
