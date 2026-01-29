@@ -160,35 +160,6 @@ export default function CCA() {
         </div>
       </div>
 
-      <div class="flex flex-col md:flex-row justify-center gap-6">
-    
-    <!-- Box 1 -->
-    <div class="flex flex-col items-center w-full md:w-1/3">
-      <a href="https://example.com/1" target="_blank" rel="noopener noreferrer">
-        <img src="https://picsum.photos/id/1018/400/300" alt="Box 1" class="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform">
-      </a>
-      <div class="mt-3 text-center text-lg font-semibold text-gray-800">Box 1 Text</div>
-    </div>
-
-    <!-- Box 2 -->
-    <div class="flex flex-col items-center w-full md:w-1/3">
-      <a href="https://example.com/2" target="_blank" rel="noopener noreferrer">
-        <img src="https://picsum.photos/id/1015/400/300" alt="Box 2" class="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform">
-      </a>
-      <div class="mt-3 text-center text-lg font-semibold text-gray-800">Box 2 Text</div>
-    </div>
-
-    <!-- Box 3 -->
-    <div class="flex flex-col items-center w-full md:w-1/3">
-      <a href="https://example.com/3" target="_blank" rel="noopener noreferrer">
-        <img src="https://picsum.photos/id/1019/400/300" alt="Box 3" class="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform">
-      </a>
-      <div class="mt-3 text-center text-lg font-semibold text-gray-800">Box 3 Text</div>
-    </div>
-
-  </div>
-
-
       <div className="w-full overflow-hidden mt-16">
   <div className="flex animate-slide gap-6">
     <img src="https://www.centreforcultureandart.com/images/two.png" className="w-1/3 flex-shrink-0" />
