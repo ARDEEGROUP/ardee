@@ -88,13 +88,13 @@ export default function SideImageBgCard(props) {
         {hideLightGradient ? (
           <></>
         ) : (
-          <div className="absolute top-0 right-0 bottom-0 left-0 bg-color-gradient rounded-[0.75rem]"></div>
+          {/* <div className="absolute top-0 right-0 bottom-0 left-0 bg-color-gradient rounded-[0.75rem]"></div>*/}
         )}
-        <div
+         {/*<div
           className={`absolute right-0 -bottom-[1px] left-0 top-0 rounded-[0.75rem] ${
             darkGradient ? "bg-dark-gradient" : ""
           } `}
-        ></div>
+        ></div>*/}
         <div
           className={`z-40 mt-20 mb-5 mx-5 lg:mx-10 flex flex-col w-full relative items-center`}
         >
