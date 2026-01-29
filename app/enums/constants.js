@@ -688,7 +688,7 @@ export const CCA_FEATURES = [
     isHeroIcon: true,
   }
   /*{
-    label: "Rich Legacy & Origins",
+    label: "Rich Legacy & Originsg",
     subTitle: "Founded by Shri Ashok Varma & The Ardee Group",
     description:
       "Originally established in Connaught Place by the late Shri Ashok Varma and The Ardee Group, CCA was a central pillar of Delhi’s art scene for over 30 years, from the 1970s onwards.",
