@@ -161,15 +161,27 @@ export default function CCA() {
       </div>
 
       <div className="w-full overflow-hidden">
-  <div className="flex animate-slide">
+  <div className="flex animate-slide gap-6">
     <img src="https://www.centreforcultureandart.com/images/two.png" className="w-1/3 flex-shrink-0" />
     <img src="https://www.centreforcultureandart.com/images/three.png" className="w-1/3 flex-shrink-0" />
-    <img src="https://www.centreforcultureandart.com/images/three.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/rekha-shefali.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/Shobha-Broota.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/jatin-Das.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/five.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/sixth.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/seven.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/eight.png" className="w-1/3 flex-shrink-0" />
 
     {/* duplicate images for smooth infinite loop */}
-    <img src="https://picsum.photos/id/1018/1200/400" className="w-1/3 flex-shrink-0" />
-    <img src="https://picsum.photos/id/1015/1200/400" className="w-1/3 flex-shrink-0" />
-    <img src="https://picsum.photos/id/1019/1200/400" className="w-1/3 flex-shrink-0" />
+     <img src="https://www.centreforcultureandart.com/images/two.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/three.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/rekha-shefali.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/Shobha-Broota.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/jatin-Das.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/five.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/sixth.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/seven.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/eight.png" className="w-1/3 flex-shrink-0" />
   </div>
 </div>
 
