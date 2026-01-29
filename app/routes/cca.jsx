@@ -147,11 +147,14 @@ export default function CCA() {
 
       <div className="w-full overflow-hidden">
   <div className="flex animate-slide">
-    <img src="https://picsum.photos/id/1018/1200/400" className="w-full flex-shrink-0" />
-    <img src="https://picsum.photos/id/1015/1200/400" className="w-full flex-shrink-0" />
-    <img src="https://picsum.photos/id/1019/1200/400" className="w-full flex-shrink-0" />
-    {/* duplicate first image for smooth loop */}
-    <img src="https://picsum.photos/id/1018/1200/400" className="w-full flex-shrink-0" />
+    <img src="https://picsum.photos/id/1018/1200/400" className="w-1/3 flex-shrink-0" />
+    <img src="https://picsum.photos/id/1015/1200/400" className="w-1/3 flex-shrink-0" />
+    <img src="https://picsum.photos/id/1019/1200/400" className="w-1/3 flex-shrink-0" />
+
+    {/* duplicate images for smooth infinite loop */}
+    <img src="https://picsum.photos/id/1018/1200/400" className="w-1/3 flex-shrink-0" />
+    <img src="https://picsum.photos/id/1015/1200/400" className="w-1/3 flex-shrink-0" />
+    <img src="https://picsum.photos/id/1019/1200/400" className="w-1/3 flex-shrink-0" />
   </div>
 </div>
 
