@@ -116,7 +116,7 @@ export default function CCA() {
             <div className="text-lg font-semibold text-zinc-200 lg:ml-5 mt-2 mb-2 flex items-center gap-x-2">
               <div className="flex items-center gap-x-2">
                 <MapPinIcon className="w-5 h-5 text-zinc-300 drop-shadow-[0_0px_5px_rgba(255,255,255,0.85)]" />{" "}
-                Lutyens' Delhi
+                Ardee Foundation, Golf Links Lane New Delhi
               </div>
               {/* <span className="font-thin text-zinc-700"> | </span>{" "}
               <span className="text-zinc-300 font-normal">
