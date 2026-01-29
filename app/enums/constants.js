@@ -28,7 +28,7 @@ export const ROUTES = [
     iconKey: "user-group",
   },
   {
-    label: "CCA",
+    label: "Ardee Foundation",
     to: "/cca",
     iconKey: "paint-brush",
   },
