@@ -145,6 +145,16 @@ export default function CCA() {
         </div>
       </div>
 
+      <div className="w-full overflow-hidden">
+  <div className="flex animate-slide">
+    <img src="https://picsum.photos/id/1018/1200/400" className="w-full flex-shrink-0" />
+    <img src="https://picsum.photos/id/1015/1200/400" className="w-full flex-shrink-0" />
+    <img src="https://picsum.photos/id/1019/1200/400" className="w-full flex-shrink-0" />
+    {/* duplicate first image for smooth loop */}
+    <img src="https://picsum.photos/id/1018/1200/400" className="w-full flex-shrink-0" />
+  </div>
+</div>
+
       {/* <div className="min-h-96 lg:pt-10 lg:px-10 relative lg:mt-16">
         <div className="flex items-start flex-wrap w-full">
           <div className="px-5 pb-10 lg:pb-0 lg:px-0 bg-gradient-to-b from-zinc-400/0 via-zinc-950/70 to-zinc-950 rounded-b-xl lg:to-transparent lg:via-transparent order-2 lg:order-1 w-full lg:w-1/2 flex flex-col lg:pr-16 z-50">
