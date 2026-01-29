@@ -215,8 +215,8 @@ export const SPORTS_HERO_BANNER = {
 
 export const CCA_HERO_BANNER = {
   image: "cca-1",
-  label: "Centre for Culture & Arts",
-  description: "Exclusive, invitation-only art gallery and cultural centre.",
+  label: "Ardee Foundation",
+  description: "",
 };
 
 export const NEWS_HERO_BANNER = {
