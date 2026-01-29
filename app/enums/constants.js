@@ -686,7 +686,7 @@ export const CCA_FEATURES = [
       "Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts. Today, under the leadership of Shefali Varma—Chairperson of The Ardee Group and The Ardee Schools, and an Advisor on the Board of the Kochi Biennale Foundation—the Foundation operates at the intersection of art, education, and legacy.",
     icon: "lock-closed", // Represents exclusivity
     isHeroIcon: true,
-  },
+  }
   /*{
     label: "Rich Legacy & Origins",
     subTitle: "Founded by Shri Ashok Varma & The Ardee Group",
