@@ -686,12 +686,12 @@ export const CCA_FEATURES = [
       "Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts. Today, under the leadership of Shefali Varma—Chairperson of The Ardee Group and The Ardee Schools, and an Advisor on the Board of the Kochi Biennale Foundation—the Foundation operates at the intersection of art, education, and legacy.",
     icon: "lock-closed", // Represents exclusivity
     isHeroIcon: true,
-  }
-  /*{
+  },
+  {
     label: "Rich Legacy & Originsg",
     subTitle: "Founded by Shri Ashok Varma & The Ardee Group",
     description:
-      "Originally established in Connaught Place by the late Shri Ashok Varma and The Ardee Group, CCA was a central pillar of Delhi’s art scene for over 30 years, from the 1970s onwards.",
+      " this is only for test Originally established in Connaught Place by the late Shri Ashok Varma and The Ardee Group, CCA was a central pillar of Delhi’s art scene for over 30 years, from the 1970s onwards.",
     icon: "archive-box", // Represents history/archives
     isHeroIcon: true,
   },
@@ -720,7 +720,7 @@ export const CCA_FEATURES = [
     isHeroIcon: true,
   },
 ];
-*/
+
 export const NEWS_ARTICLES = [
   {
     title: "Gulab Bari India's First Women-Only Flower Holi Festival in Delhi",
