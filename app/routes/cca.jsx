@@ -160,41 +160,6 @@ export default function CCA() {
         </div>
       </div>
 
-    <div className="flex flex-col md:flex-row justify-center gap-6">
-  
-  {/* Box 1 */}
-  <div className="flex flex-col items-center w-full md:w-1/3">
-    <a href="https://example.com/1" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://picsum.photos/id/1018/400/300"
-        alt="Box 1"
-        className="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform"
-      />
-    </a>
-    <div className="mt-3 text-center text-lg font-semibold text-gray-800">
-      Box 1 Text
-    </div>
-  </div>
-
-  {/* Box 2 */}
-  <div className="flex flex-col items-center w-full md:w-1/3">
-    <a href="https://example.com/2" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://picsum.photos/id/1015/400/300"
-        alt="Box 2"
-        className="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform"
-      />
-    </a>
-    <div className="mt-3 text-center text-lg font-semibold text-gray-800">
-      Box 2 Text
-    </div>
-  </div>
-
-  {/* Box 3 */}
-  <div className="flex flex-col items-center w-full md:w-1/3">
-    <a href="https://example.com/3" target="_blank" rel="noopener noreferrer">
-      <
-
 
       <div className="w-full overflow-hidden mt-16">
   <div className="flex animate-slide gap-6">
