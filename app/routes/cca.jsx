@@ -69,6 +69,21 @@ export default function CCA() {
 
   return (
     <div className="w-full container mx-auto p-2 md:p-3 lg:p-5 lg:mb-10 bg-zinc-950 lg:bg-transparent lg:rounded-b-xl">
+      {/* ✅ INTERNAL CSS */}
+    <style>{`
+      @keyframes slide {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(-100%);
+        }
+      }
+
+      .animate-slide {
+        animation: slide 18s linear infinite;
+      }
+    `}</style>
       <div className="w-full">
         <HeroBannerCard item={ccaHeroBanner} index={0} />
       </div>
