@@ -216,7 +216,7 @@ export const SPORTS_HERO_BANNER = {
 export const CCA_HERO_BANNER = {
   image: "cca-1",
   label: "Ardee Foundation",
-  description: "",
+  description: "Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts.",
 };
 
 export const NEWS_HERO_BANNER = {
