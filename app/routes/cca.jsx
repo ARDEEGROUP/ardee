@@ -160,6 +160,60 @@ export default function CCA() {
         </div>
       </div>
 
+      <div className="px-6 py-10 bg-gray-100">
+  {/* Title */}
+  <h1 className="text-3xl font-bold text-center mb-10">
+    Our Featured Services
+  </h1>
+
+  {/* Boxes */}
+  <div className="flex flex-col md:flex-row gap-6 justify-center">
+    
+    {/* Box 1 */}
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+      <a href="https://example.com/one" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://picsum.photos/id/1011/400/300"
+          alt="Service One"
+          className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
+        />
+      </a>
+      <div className="p-4 text-center font-semibold">
+        Service One
+      </div>
+    </div>
+
+    {/* Box 2 */}
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+      <a href="https://example.com/two" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://picsum.photos/id/1015/400/300"
+          alt="Service Two"
+          className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
+        />
+      </a>
+      <div className="p-4 text-center font-semibold">
+        Service Two
+      </div>
+    </div>
+
+    {/* Box 3 */}
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+      <a href="https://example.com/three" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://picsum.photos/id/1018/400/300"
+          alt="Service Three"
+          className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
+        />
+      </a>
+      <div className="p-4 text-center font-semibold">
+        Service Three
+      </div>
+    </div>
+
+  </div>
+</div>
+
 
       <div className="w-full overflow-hidden mt-16">
   <div className="flex animate-slide gap-6">
