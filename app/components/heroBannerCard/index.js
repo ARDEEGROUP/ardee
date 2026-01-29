@@ -116,7 +116,7 @@ location.pathname === "/real-estate/residential";
           </div>
 
           <div
-            className={`flex mt-5 absolute bottom-0 transition-opacity delay-500 duration-500 ${
+            className={`flex mt-5 gap-4 absolute bottom-0 transition-opacity delay-500 duration-500 ${
               shouldAnimateContent ? "opacity-100" : "opacity-0"
             }`}
           >
