@@ -719,8 +719,9 @@ export const CCA_FEATURES = [
     icon: "eye", // Represents viewing/curation
     isHeroIcon: true,
   },
+  */}
 ];
-*/}
+
 export const NEWS_ARTICLES = [
   {
     title: "Gulab Bari India's First Women-Only Flower Holi Festival in Delhi",
