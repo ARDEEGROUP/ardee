@@ -160,7 +160,7 @@ export default function CCA() {
         </div>
       </div>
 
-      <div className="w-full overflow-hidden">
+      <div className="w-full overflow-hidden mt-16">
   <div className="flex animate-slide gap-6">
     <img src="https://www.centreforcultureandart.com/images/two.png" className="w-1/3 flex-shrink-0" />
     <img src="https://www.centreforcultureandart.com/images/three.png" className="w-1/3 flex-shrink-0" />
