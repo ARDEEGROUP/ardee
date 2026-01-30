@@ -688,7 +688,7 @@ export const CCA_FEATURES = [
     isHeroIcon: true,
   },
  {
-    label: "Kochi Muziris Biennale (On Going)",
+    label: "Kochi Muziris Biennale",
     subTitle: "Shobha Broota : The Lightness of Being ",
     description:
       "December 2025 to March 2026",
@@ -696,7 +696,7 @@ export const CCA_FEATURES = [
     isHeroIcon: true,
   },
   {
-    label: "India Art Fair (Coming Soon) ",
+    label: "India Art Fair",
     subTitle: "Manjit Bawa : An Enduring Legacy",
     description:
       "5th- 8th Feb 2026",
