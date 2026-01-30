@@ -688,7 +688,7 @@ export const CCA_FEATURES = [
     isHeroIcon: true,
   },
  {
-    label: "Kochi Muziris Biennale (Coming Soon)",
+    label: "Kochi Muziris Biennale (On Going Soon)",
     subTitle: "Shobha Broota : The Lightness of Being ",
     description:
       "December 2025 to March 2026",
