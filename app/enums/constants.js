@@ -23,7 +23,7 @@ export const ROUTES = [
     // tag: "New",
   },
   {
-    label: "Sports",
+    label: "Sport",
     to: "/sports",
     iconKey: "user-group",
   },
