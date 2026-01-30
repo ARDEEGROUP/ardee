@@ -225,6 +225,13 @@ export default function CCA() {
     <img src="https://www.centreforcultureandart.com/images/sixth.png" className="w-1/3 flex-shrink-0" />
     <img src="https://www.centreforcultureandart.com/images/seven.png" className="w-1/3 flex-shrink-0" />
     <img src="https://www.centreforcultureandart.com/images/eight.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/nine.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/arpita.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/param.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/madh.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/newone.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/newtwo.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/newthree.jpg" className="w-1/3 flex-shrink-0" />
 
     {/* duplicate images for smooth infinite loop */}
      <img src="https://www.centreforcultureandart.com/images/two.png" className="w-1/3 flex-shrink-0" />
@@ -236,6 +243,13 @@ export default function CCA() {
     <img src="https://www.centreforcultureandart.com/images/sixth.png" className="w-1/3 flex-shrink-0" />
     <img src="https://www.centreforcultureandart.com/images/seven.png" className="w-1/3 flex-shrink-0" />
     <img src="https://www.centreforcultureandart.com/images/eight.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/nine.png" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/arpita.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/param.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/madh.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/newone.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/newtwo.jpg" className="w-1/3 flex-shrink-0" />
+    <img src="https://www.centreforcultureandart.com/images/newthree.jpg" className="w-1/3 flex-shrink-0" />
   </div>
 </div>
 
