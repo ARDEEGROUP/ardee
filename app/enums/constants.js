@@ -724,6 +724,30 @@ export const CCA_FEATURES = [
 
 export const NEWS_ARTICLES = [
   {
+    title: "The Ardee Foundation",
+    publishInfo: "18 Nov 2025",
+    publishingHouse: "mediaexpress24",
+    magazineTitle: "Art and Culture",
+    magazineSubTitle: "Shefali Varma Joins the Advisory Council of the Kochi Biennale Foundation",
+    pageInfo: "Page 46-55",
+    images: [
+      "news/sv-binale",
+      "news/sv-binale",
+    ],
+  },
+    {
+    title: "The Ardee Foundation",
+    publishInfo: "2 Nov 2025",
+    publishingHouse: "Hindustan Times.",
+    magazineTitle: "Art and Culture",
+    magazineSubTitle: "Shefali Varma Extends Support to Kochi Biennale Foundation as a Platinum Benefactor",
+    pageInfo: "Page 46-55",
+    images: [
+      "news/hindustan-times",
+      "news/hindu",
+    ],
+  },
+  {
     title: "Gulab Bari India's First Women-Only Flower Holi Festival in Delhi",
     publishInfo: "March 2025",
     // publishingHouse: "Academicians Bureau Publications Pvt. Ltd.",
@@ -791,30 +815,7 @@ export const NEWS_ARTICLES = [
       "news/news-article-3-12",
     ],
   },
-  {
-    title: "The Ardee Foundation",
-    publishInfo: "2 Nov 2025",
-    publishingHouse: "Hindustan Times.",
-    magazineTitle: "Art and Culture",
-    magazineSubTitle: "Shefali Varma Extends Support to Kochi Biennale Foundation as a Platinum Benefactor",
-    pageInfo: "Page 46-55",
-    images: [
-      "news/hindustan-times",
-      "news/hindu",
-    ],
-  },
-   {
-    title: "The Ardee Foundation",
-    publishInfo: "18 Nov 2025",
-    publishingHouse: "mediaexpress24",
-    magazineTitle: "Art and Culture",
-    magazineSubTitle: "Shefali Varma Joins the Advisory Council of the Kochi Biennale Foundation",
-    pageInfo: "Page 46-55",
-    images: [
-      "news/sv-binale",
-      "news/sv-binale",
-    ],
-  },
+  
 ];
 
 export const ARDEE_GROUP_INSTAGRAM_LINK =
