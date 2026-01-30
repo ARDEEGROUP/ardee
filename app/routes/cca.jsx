@@ -185,7 +185,7 @@ export default function CCA() {
 
     {/* Box 2 */}
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
-      <a href="" target="_blank" rel="noopener noreferrer">
+      <a href="hindustantimes.com/htcity/htcity-delhi-junction/from-kochi-to-delhi-the-ardee-foundations-expanding-canvas-101761990415265.html" target="_blank" rel="noopener noreferrer">
         <img
           src="https://www.centreforcultureandart.com/images/hindu.jpeg"
           alt="Service Two"
@@ -199,7 +199,7 @@ export default function CCA() {
 
     {/* Box 3 */}
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
-      <a href="https://example.com/three" target="_blank" rel="noopener noreferrer">
+      <a href="https://newsexperts.in/shefali-varma-extends-support-to-kochi-biennale-foundation-as-a-platinum-benefactor/" target="_blank" rel="noopener noreferrer">
         <img
           src="https://www.centreforcultureandart.com/images/ssd.png"
           alt="Service Three"
@@ -212,7 +212,7 @@ export default function CCA() {
     </div>
   {/* Box 4 */}
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
-      <a href="https://example.com/three" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.businessdigestmagazine.org/index.php/general/item/6196-ardee-foundation-presents-shobha-broota-at-mocha-art-caf%C3%A9-for-kochi-muziris-biennale" target="_blank" rel="noopener noreferrer">
         <img
           src="images/shobha.png"
           alt="Service Three"
