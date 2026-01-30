@@ -684,15 +684,15 @@ export const CCA_FEATURES = [
     subTitle: "",
     description:
       "Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts. Today, under the leadership of Shefali Varma—Chairperson of The Ardee Group and The Ardee Schools, and an Advisor on the Board of the Kochi Biennale Foundation—the Foundation operates at the intersection of art, education, and legacy.",
-    icon: "lock-closed", // Represents exclusivity
+    icon: "", // Represents exclusivity
     isHeroIcon: true,
   },
  {
-    label: "Kochi Muziris Biennale (On Going Soon)",
+    label: "Kochi Muziris Biennale (On Going)",
     subTitle: "Shobha Broota : The Lightness of Being ",
     description:
       "December 2025 to March 2026",
-    icon: "archive-box", // Represents history/archives
+    icon: "", // Represents history/archives
     isHeroIcon: true,
   },
   {
@@ -700,7 +700,7 @@ export const CCA_FEATURES = [
     subTitle: "Manjit Bawa : An Enduring Legacy",
     description:
       "5th- 8th Feb 2026",
-    icon: "arrow-path", // Represents renewal/revival
+    icon: "", // Represents renewal/revival
     isHeroIcon: true,
   },
  {/*  {
