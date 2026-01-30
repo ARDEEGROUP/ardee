@@ -208,7 +208,7 @@ export default function RealEstateCommercial() {
               ></div>
             </div>
             {/* <div className="p-2 bg-top-dark-gradient rounded-lg absolute top-0 left-0 right-0 bottom-0 flex items-center justify-center z-[100]"></div> */}
-            <div className="p-2 bg-top-dark-gradient rounded-lg absolute top-0 left-0 right-0 bottom-0 flex items-center justify-center z-[100]"></div>
+            <div className="p-2  rounded-lg absolute top-0 left-0 right-0 bottom-0 flex items-center justify-center z-[100]"></div>
             <SideImageBgCard
               item={{ image: "bg-pattern" }}
               index={0}
