@@ -687,23 +687,23 @@ export const CCA_FEATURES = [
     icon: "lock-closed", // Represents exclusivity
     isHeroIcon: true,
   },
-  {/*{
-    label: "Rich Legacy & Originsg",
-    subTitle: "Founded by Shri Ashok Varma & The Ardee Group",
+ {
+    label: "Kochi Muziris Biennale (Coming Soon)",
+    subTitle: "Shobha Broota : The Lightness of Being ",
     description:
-      " this is only for test Originally established in Connaught Place by the late Shri Ashok Varma and The Ardee Group, CCA was a central pillar of Delhi’s art scene for over 30 years, from the 1970s onwards.",
+      "December 2025 to March 2026",
     icon: "archive-box", // Represents history/archives
     isHeroIcon: true,
   },
   {
-    label: "Revived and Reimagined",
-    subTitle: "New Home in Golf Links Lane",
+    label: "India Art Fair (Coming Soon) ",
+    subTitle: "Manjit Bawa : An Enduring Legacy",
     description:
-      "Following a period of closure for relocation, this iconic institution has been lovingly revived, reimagined, and rehomed in the prestigious Golf Links Lane, New Delhi.",
+      "5th- 8th Feb 2026",
     icon: "arrow-path", // Represents renewal/revival
     isHeroIcon: true,
   },
-  {
+ {/*  {
     label: "Prestigious Location",
     subTitle: "Heart of Lutyens' Delhi",
     description:
