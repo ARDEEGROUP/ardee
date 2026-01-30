@@ -173,7 +173,7 @@ export default function CCA() {
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://mediaexpress24.com/news/shefali-varma-joins-kochi-biennale-foundation-advisory-council/" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://www.centreforcultureandart.com/images/sv-binale.jpeg"
+          src="images/svv.png"
           alt="Service One"
           className="w-full h-100 object-cover hover:scale-105 transition-transform duration-300"
         />
@@ -187,7 +187,7 @@ export default function CCA() {
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://www.hindustantimes.com/htcity/htcity-delhi-junction/from-kochi-to-delhi-the-ardee-foundations-expanding-canvas-101761990415265.html" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://www.centreforcultureandart.com/images/hindu.jpeg"
+          src="images/hindu.png"
           alt="Service Two"
           className="w-full h-100 object-cover hover:scale-105 transition-transform duration-300"
         />
