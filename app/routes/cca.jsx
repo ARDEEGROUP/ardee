@@ -201,7 +201,7 @@ export default function CCA() {
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://newsexperts.in/shefali-varma-extends-support-to-kochi-biennale-foundation-as-a-platinum-benefactor/" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://www.centreforcultureandart.com/images/ssd.png"
+          src="images/svnews.png"
           alt="Service Three"
           className="w-full h-100 object-cover hover:scale-105 transition-transform duration-300"
         />
