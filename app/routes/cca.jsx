@@ -210,7 +210,20 @@ export default function CCA() {
        News Experts
     </div>
     </div>
-
+  {/* Box 4 */}
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
+      <a href="https://example.com/three" target="_blank" rel="noopener noreferrer">
+        <img
+          src="images/shobha.png"
+          alt="Service Three"
+          className="w-full h-100 object-cover hover:scale-105 transition-transform duration-300"
+        />
+      </a>
+      <div className="p-4 text-center font-semibold">
+       Busniess Digest
+    </div>
+    </div>
+    
   </div>
 </div>
 
