@@ -193,7 +193,7 @@ export default function CCA() {
         />
       </a>
       <div className="p-4 text-center font-semibold">
-         Hindustan Times (2 Nov 2025)
+         Hindustan Times
       </div>
     </div>
 
