@@ -185,7 +185,7 @@ export default function CCA() {
 
     {/* Box 2 */}
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
-      <a href="hindustantimes.com/htcity/htcity-delhi-junction/from-kochi-to-delhi-the-ardee-foundations-expanding-canvas-101761990415265.html" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.hindustantimes.com/htcity/htcity-delhi-junction/from-kochi-to-delhi-the-ardee-foundations-expanding-canvas-101761990415265.html" target="_blank" rel="noopener noreferrer">
         <img
           src="https://www.centreforcultureandart.com/images/hindu.jpeg"
           alt="Service Two"
