@@ -341,7 +341,7 @@ export default function RealEstateCommercial() {
     <img src="/images/three.png" className="w-1/3 flex-shrink-0" />
     <img src="/images/four.png" className="w-1/3 flex-shrink-0" />
     <img src="/images/five.png" className="w-1/3 flex-shrink-0" />
-    <img src="/images/sixth.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/six.png" className="w-1/3 flex-shrink-0" />
     <img src="/images/seven.png" className="w-1/3 flex-shrink-0" />
     
     {/* duplicate images for smooth infinite loop */}
@@ -349,7 +349,7 @@ export default function RealEstateCommercial() {
     <img src="/images/three.png" className="w-1/3 flex-shrink-0" />
     <img src="/images/four.png" className="w-1/3 flex-shrink-0" />
     <img src="/images/five.png" className="w-1/3 flex-shrink-0" />
-    <img src="/images/sixth.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/six.png" className="w-1/3 flex-shrink-0" />
     <img src="/images/seven.png" className="w-1/3 flex-shrink-0" />
   </div>
 </div>
