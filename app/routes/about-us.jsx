@@ -45,7 +45,7 @@ export default function AboutUs() {
 
             <div className="w-72 mt-2 mb-2 h-[2px] bg-gradient-to-r from-zinc-700/50 via-zinc-700/50 to-zinc-500/0 border-none" />
 
-            <div className="mt-5 max-w-prose text-zinc-100 flex flex-col gap-y-4 text-xl">
+            <div className="mt-5  text-zinc-100 flex flex-col gap-y-4 text-xl">
               <p className="text-zinc-500">
                 The Ardee Group was founded in 1971 by the late Shri Ashok Varma
                 with a dynamic vision to transform the skyline of Delhi.
@@ -79,7 +79,7 @@ export default function AboutUs() {
             </div>
           </div>
 
-          <div className="w-full mt-10 lg:mt-0 lg:w-1/2">
+          <div className="w-full mt-10 lg:mt-0 lg:w-1/2 hidden">
             <SideImageBgCard item={{ image: "our-story" }} index={0} />
           </div>
         </div>
