@@ -337,20 +337,20 @@ export default function RealEstateCommercial() {
       </div>
           <div className="w-full overflow-hidden mt-16">
   <div className="flex animate-slide gap-6">
-    <img src="/images/two.png" className="w-1/4 flex-shrink-0" />
-    <img src="/three.png" className="w-1/4 flex-shrink-0" />
-    <img src="/four.png" className="w-1/4 flex-shrink-0" />
-    <img src="/five.png" className="w-1/4 flex-shrink-0" />
-    <img src="/images/sixth.png" className="w-1/4 flex-shrink-0" />
-    <img src="/images/seven.png" className="w-1/4 flex-shrink-0" />
+    <img src="/images/two.png" className="w-1/3 flex-shrink-0" />
+    <img src="/three.png" className="w-1/3 flex-shrink-0" />
+    <img src="/four.png" className="w-1/3 flex-shrink-0" />
+    <img src="/five.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/sixth.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/seven.png" className="w-1/3 flex-shrink-0" />
     
     {/* duplicate images for smooth infinite loop */}
-     <img src="/images/two.png" className="w-1/4 flex-shrink-0" />
-    <img src="/images/three.png" className="w-1/4 flex-shrink-0" />
-    <img src="/images/four.png" className="w-1/4 flex-shrink-0" />
-    <img src="/images/five.png" className="w-1/4 flex-shrink-0" />
-    <img src="/images/sixth.png" className="w-1/4 flex-shrink-0" />
-    <img src="/images/seven.png" className="w-1/4 flex-shrink-0" />
+     <img src="/images/two.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/three.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/four.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/five.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/sixth.png" className="w-1/3 flex-shrink-0" />
+    <img src="/images/seven.png" className="w-1/3 flex-shrink-0" />
   </div>
 </div>
       {/* <div className="min-h-96 py-20 lg:px-10 relative bg-zinc-950"></div> */}
