@@ -41,6 +41,27 @@ export default function RealEstateCommercial() {
 
   return (
     <div className="w-full container mx-auto p-2 md:p-3 lg:p-5 mb-10">
+
+      {/* ✅ INTERNAL CSS */}
+    <style>{`
+     @keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-slide {
+  animation: slide 18s linear infinite;
+  will-change: transform;
+}
+
+.animate-slide:hover {
+  animation-play-state: paused;
+}
+    `}</style>
       <div className="w-full">
         <HeroBannerCard
           item={{
@@ -314,7 +335,24 @@ export default function RealEstateCommercial() {
           </div>
         </div>
       </div>
-
+          <div className="w-full overflow-hidden mt-16">
+  <div className="flex animate-slide gap-6">
+    <img src="images/two.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/three.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/four.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/five.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/sixth.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/seven.png" className="w-1/4 flex-shrink-0" />
+    
+    {/* duplicate images for smooth infinite loop */}
+     <img src="images/two.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/three.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/four.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/five.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/sixth.png" className="w-1/4 flex-shrink-0" />
+    <img src="images/seven.png" className="w-1/4 flex-shrink-0" />
+  </div>
+</div>
       {/* <div className="min-h-96 py-20 lg:px-10 relative bg-zinc-950"></div> */}
     </div>
   );
