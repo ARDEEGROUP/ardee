@@ -209,8 +209,8 @@ export const NEW_PAGES = [
 
 export const SPORTS_HERO_BANNER = {
   image: "sports-15",
-  label: "Sports",
-  description: "Ardee Group's sports activities and updates.",
+  label: "Sport",
+  description: "Ardee Group's sport activities and updates.",
 };
 
 export const CCA_HERO_BANNER = {
