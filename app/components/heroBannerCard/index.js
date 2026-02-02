@@ -135,6 +135,7 @@ location.pathname === "/real-estate/residential";
           target="_blank"
           rel="noopener noreferrer"
             className="py-3 px-7 border border-white text-white rounded-full hover:bg-black hover:text-white transition"
+              style={{ border: "1px solid white" }}
           
         >
           UPCOMING PROJECT BROCHURE
