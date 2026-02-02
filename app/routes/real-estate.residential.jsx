@@ -337,7 +337,7 @@ export default function RealEstateCommercial() {
       </div>
           <div className="w-full overflow-hidden mt-16">
   <div className="flex animate-slide gap-6">
-    <img src="images/two.png" className="w-1/4 flex-shrink-0" />
+    <img src="public/images/two.png" className="w-1/4 flex-shrink-0" />
     <img src="images/three.png" className="w-1/4 flex-shrink-0" />
     <img src="images/four.png" className="w-1/4 flex-shrink-0" />
     <img src="images/five.png" className="w-1/4 flex-shrink-0" />
