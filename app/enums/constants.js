@@ -731,8 +731,8 @@ export const NEWS_ARTICLES = [
     magazineSubTitle: "Ardee Foundation presents the Ardee Legacy Awards at India Art Fair 2026",
     pageInfo: "",
     images: [
-      "art-fair",
-      "art-fair",
+      "news/art-fair",
+      "news/art-fair",
     ],
   },
   
