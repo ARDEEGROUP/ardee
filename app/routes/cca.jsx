@@ -173,8 +173,8 @@ export default function CCA() {
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://timesofindia.indiatimes.com/entertainment/events/ardee-foundation-unveils-ardee-legacy-awards-at-india-art-fair-2026/articleshow/127911430.cms" target="_blank" rel="noopener noreferrer">
         <img
-          src="images/svv.png"
-          alt="Service One"
+          src="images/art-fair.png"
+          alt="Service five"
           className="w-full h-100 object-cover hover:scale-105 transition-transform duration-300"
         />
       </a>
