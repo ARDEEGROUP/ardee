@@ -723,6 +723,19 @@ export const CCA_FEATURES = [
 ];
 
 export const NEWS_ARTICLES = [
+   {
+    title: "The Ardee Foundation",
+    publishInfo: "5-8 February 2026",
+    publishingHouse: "Times Entertainment",
+    magazineTitle: "Art and Culture",
+    magazineSubTitle: "Ardee Foundation presents the Ardee Legacy Awards at India Art Fair 2026",
+    pageInfo: "",
+    images: [
+      "art-fair",
+      "art-fair",
+    ],
+  },
+  
   {
     title: "The Ardee Foundation",
     publishInfo: "18 Nov 2025",
