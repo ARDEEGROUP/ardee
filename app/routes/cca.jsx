@@ -168,6 +168,20 @@ export default function CCA() {
 
   {/* Boxes */}
   <div className="flex flex-col md:flex-row gap-6 justify-center">
+
+    {/* Box 1 */}
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
+      <a href="https://timesofindia.indiatimes.com/entertainment/events/ardee-foundation-unveils-ardee-legacy-awards-at-india-art-fair-2026/articleshow/127911430.cms" target="_blank" rel="noopener noreferrer">
+        <img
+          src="images/svv.png"
+          alt="Service One"
+          className="w-full h-100 object-cover hover:scale-105 transition-transform duration-300"
+        />
+      </a>
+      <div className="p-4 text-center font-semibold">
+      Times Entertainment 
+      </div>
+    </div>
     
     {/* Box 1 */}
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
