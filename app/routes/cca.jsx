@@ -150,7 +150,84 @@ export default function CCA() {
             /> */}
 
             <div className="mt-5 max-w-prose text-zinc-100 flex flex-col gap-y-4 text-xl">
-             <div className="h-full"><div className="rounded-xl mt-0 h-full relative grayscale-card transition-all delay-100 cursor-default border-2 border-solid border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient " style="background-image: url(&quot;/images/undefined.png&quot;); background-position: center center; background-size: cover;"><div className="lg:pl-0 lg:pr-3 pb-3 rounded-xl h-full"><div className="z-40 mt-10 mb-3 lg:mx-5 w-full flex items-start gap-5 h-full"><div className="transition-all delay-100 duration-200 mt-0 justify-center flex flex-col self-stretch h-full opacity-0"><img src="/icons/.png" className="w-[3.75rem] h-[3.75rem]"><div className="w-5 h-full bg-red-300"></div></div><div className="flex flex-col w-full pr-4 items-start"><div className="text-[min(1.75rem,5vw)] font-extrabold font-times text-white duration-200" style="opacity: 1;">Ardee Foundation</div><div className="mt-2 mb-5 mr-5 text-zinc-100 text-base font-light max-w-prose transition-all delay-100 duration-200 opacity-100 text-left"><span className="font-semibold text-zinc-200 lg:text-zinc-300">Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts. Today, under the leadership of Shefali Varma—Chairperson of The Ardee Group and The Ardee Schools, and an Advisor on the Board of the Kochi Biennale Foundation—the Foundation operates at the intersection of art, education, and legacy.</span></div></div></div></div></div></div><div className="h-full"><div className="rounded-xl mt-0 h-full relative grayscale-card transition-all delay-100 cursor-default border-2 border-solid border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient " style="background-image: url(&quot;/images/undefined.png&quot;); background-position: center center; background-size: cover;"><div className="lg:pl-0 lg:pr-3 pb-3 rounded-xl h-full"><div className="z-40 mt-10 mb-3 lg:mx-5 w-full flex items-start gap-5 h-full"><div className="transition-all delay-100 duration-200 mt-0 justify-center flex flex-col self-stretch h-full opacity-0"><img src="/icons/.png" className="w-[3.75rem] h-[3.75rem]"><div className="w-5 h-full bg-red-300"></div></div><div className="flex flex-col w-full pr-4 items-start"><div className="text-[min(1.75rem,5vw)] font-extrabold font-times text-white duration-200" style="opacity: 1;">Kochi Muziris Biennale</div><div className="mt-2 mb-2 text-zinc-100 text-base font-light uppercase max-w-prose transition-all delay-100 duration-200 opacity-100 text-left"><span className="font-light text-zinc-300 lg:text-zinc-400">Shobha Broota : The Lightness of Being </span></div><div className="mt-2 mb-5 mr-5 text-zinc-100 text-base font-light max-w-prose transition-all delay-100 duration-200 opacity-100 text-left"><span className="font-semibold text-zinc-200 lg:text-zinc-300">December 2025 to March 2026</span></div></div></div></div></div></div><div className="h-full"><div className="rounded-xl mt-0 h-full relative grayscale-card transition-all delay-100 cursor-default border-2 border-solid border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient " style="background-image: url(&quot;/images/undefined.png&quot;); background-position: center center; background-size: cover;"><div className="lg:pl-0 lg:pr-3 pb-3 rounded-xl h-full"><div className="z-40 mt-10 mb-3 lg:mx-5 w-full flex items-start gap-5 h-full"><div className="transition-all delay-100 duration-200 mt-0 justify-center flex flex-col self-stretch h-full opacity-0"><img src="/icons/.png" className="w-[3.75rem] h-[3.75rem]"><div className="w-5 h-full bg-red-300"></div></div><div className="flex flex-col w-full pr-4 items-start"><div className="text-[min(1.75rem,5vw)] font-extrabold font-times text-white duration-200" style="opacity: 1;">India Art Fair</div><div className="mt-2 mb-2 text-zinc-100 text-base font-light uppercase max-w-prose transition-all delay-100 duration-200 opacity-100 text-left"><span className="font-light text-zinc-300 lg:text-zinc-400">Manjit Bawa : An Enduring Legacy</span></div><div className="mt-2 mb-5 mr-5 text-zinc-100 text-base font-light max-w-prose transition-all delay-100 duration-200 opacity-100 text-left"><span className="font-semibold text-zinc-200 lg:text-zinc-300">5th- 8th Feb 2026</span></div></div></div></div></div></div><div className="h-full"><div className="rounded-xl mt-0 h-full relative grayscale-card transition-all delay-100 cursor-default border-2 border-solid border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient " style="background-image: url(&quot;/images/undefined.png&quot;); background-position: center center; background-size: cover;"><div className="lg:pl-0 lg:pr-3 pb-3 rounded-xl h-full"><div className="z-40 mt-10 mb-3 lg:mx-5 w-full flex items-start gap-5 h-full"><div className="transition-all delay-100 duration-200 mt-0 justify-center flex flex-col self-stretch h-full opacity-0"><img src="/icons/undefined.png" className="w-[3.75rem] h-[3.75rem]"><div className="w-5 h-full bg-red-300"></div></div><div className="flex flex-col w-full pr-4 items-start"></div></div></div></div></div></div>
+                 {/* Card 1 */}
+  <div className="h-full">
+    <div
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300"
+      style={{
+        backgroundImage: "url('/images/undefined.png')",
+        backgroundPosition: "center",
+        backgroundSize: "cover",
+      }}
+    >
+      <div className="pb-3 rounded-xl h-full">
+        <div className="mt-10 mb-3 lg:mx-5 flex items-start gap-5 h-full">
+
+          <div className="flex flex-col justify-center items-center">
+            <img
+              src="/icons/sample.png"
+              alt="icon"
+              className="w-[3.75rem] h-[3.75rem]"
+            />
+            <div className="w-1 h-full bg-red-300 mt-2"></div>
+          </div>
+
+          <div className="flex flex-col w-full pr-4">
+            <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
+              Ardee Foundation
+            </div>
+
+            <div className="mt-2 text-zinc-200 text-base font-light">
+              Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts.
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  {/* Card 2 */}
+  <div className="h-full">
+    <div
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300"
+      style={{
+        backgroundImage: "url('/images/undefined.png')",
+        backgroundPosition: "center",
+        backgroundSize: "cover",
+      }}
+    >
+      <div className="pb-3 rounded-xl h-full">
+        <div className="mt-10 mb-3 lg:mx-5 flex items-start gap-5 h-full">
+
+          <div className="flex flex-col justify-center items-center">
+            <img
+              src="/icons/sample.png"
+              alt="icon"
+              className="w-[3.75rem] h-[3.75rem]"
+            />
+            <div className="w-1 h-full bg-red-300 mt-2"></div>
+          </div>
+
+          <div className="flex flex-col w-full pr-4">
+            <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
+              Kochi Muziris Biennale
+            </div>
+
+            <div className="mt-2 text-zinc-300 uppercase text-base">
+              Shobha Broota : The Lightness of Being
+            </div>
+
+            <div className="mt-3 text-zinc-200 text-base font-semibold">
+              December 2025 to March 2026
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
             </div>
           </div>
         </div>
