@@ -150,84 +150,91 @@ export default function CCA() {
             /> */}
 
             <div className="mt-5 max-w-prose text-zinc-100 flex flex-col gap-y-4 text-xl">
-                 {/* Card 1 */}
-  <div className="h-full">
+
+  {/* Card 1 */}
+  <a
+    href="/pdfs/ardee-foundation.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="block"
+  >
     <div
-      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300"
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300 p-6"
       style={{
         backgroundImage: "url('/images/undefined.png')",
         backgroundPosition: "center",
         backgroundSize: "cover",
       }}
     >
-      <div className="pb-3 rounded-xl h-full">
-        <div className="mt-10 mb-3 lg:mx-5 flex items-start gap-5 h-full">
+      <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
+        Ardee Foundation
+      </div>
 
-          <div className="flex flex-col justify-center items-center">
-            <img
-              src="/icons/sample.png"
-              alt="icon"
-              className="w-[3.75rem] h-[3.75rem]"
-            />
-            <div className="w-1 h-full bg-red-300 mt-2"></div>
-          </div>
-
-          <div className="flex flex-col w-full pr-4">
-            <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
-              Ardee Foundation
-            </div>
-
-            <div className="mt-2 text-zinc-200 text-base font-light">
-              Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts.
-            </div>
-          </div>
-
-        </div>
+      <div className="mt-4 text-zinc-200 text-base font-light">
+        Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts. Today, under the leadership of Shefali Varma—Chairperson of The Ardee Group and The Ardee Schools—the Foundation operates at the intersection of art, education, and legacy.
       </div>
     </div>
-  </div>
+  </a>
 
 
   {/* Card 2 */}
-  <div className="h-full">
+  <a
+    href="/pdfs/kochi-biennale.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="block"
+  >
     <div
-      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300"
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300 p-6"
       style={{
         backgroundImage: "url('/images/undefined.png')",
         backgroundPosition: "center",
         backgroundSize: "cover",
       }}
     >
-      <div className="pb-3 rounded-xl h-full">
-        <div className="mt-10 mb-3 lg:mx-5 flex items-start gap-5 h-full">
+      <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
+        Kochi Muziris Biennale
+      </div>
 
-          <div className="flex flex-col justify-center items-center">
-            <img
-              src="/icons/sample.png"
-              alt="icon"
-              className="w-[3.75rem] h-[3.75rem]"
-            />
-            <div className="w-1 h-full bg-red-300 mt-2"></div>
-          </div>
+      <div className="mt-3 text-zinc-300 uppercase text-base">
+        Shobha Broota : The Lightness of Being
+      </div>
 
-          <div className="flex flex-col w-full pr-4">
-            <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
-              Kochi Muziris Biennale
-            </div>
-
-            <div className="mt-2 text-zinc-300 uppercase text-base">
-              Shobha Broota : The Lightness of Being
-            </div>
-
-            <div className="mt-3 text-zinc-200 text-base font-semibold">
-              December 2025 to March 2026
-            </div>
-          </div>
-
-        </div>
+      <div className="mt-4 text-zinc-200 text-base font-semibold">
+        December 2025 to March 2026
       </div>
     </div>
-  </div>
+  </a>
+
+
+  {/* Card 3 */}
+  <a
+    href="/pdfs/india-art-fair.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="block"
+  >
+    <div
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300 p-6"
+      style={{
+        backgroundImage: "url('/images/undefined.png')",
+        backgroundPosition: "center",
+        backgroundSize: "cover",
+      }}
+    >
+      <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
+        India Art Fair
+      </div>
+
+      <div className="mt-3 text-zinc-300 uppercase text-base">
+        Manjit Bawa : An Enduring Legacy
+      </div>
+
+      <div className="mt-4 text-zinc-200 text-base font-semibold">
+        5th - 8th Feb 2026
+      </div>
+    </div>
+  </a>
             </div>
           </div>
         </div>
