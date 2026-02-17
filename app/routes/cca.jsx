@@ -233,7 +233,7 @@ export default function CCA() {
 
    {/* Card 4 */}
   <a
-    href="/images/.pdf"
+    href="/images/Yamini.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="block"
