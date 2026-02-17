@@ -152,12 +152,7 @@ export default function CCA() {
             <div className="mt-5 max-w-prose text-zinc-100 flex flex-col gap-y-4 text-xl">
 
   {/* Card 1 */}
-  <a
-    href="/"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="block"
-  >
+
     <div
       className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300 p-6"
       style={{
@@ -174,7 +169,7 @@ export default function CCA() {
         Founded in 1997 by the late Shri Ashok Varma, Ardee Foundation advances excellence in education and the arts. Today, under the leadership of Shefali Varma—Chairperson of The Ardee Group and The Ardee Schools—the Foundation operates at the intersection of art, education, and legacy.
       </div>
     </div>
-  </a>
+  
 
 
   {/* Card 2 */}
@@ -232,6 +227,35 @@ export default function CCA() {
 
       <div className="mt-4 text-zinc-200 text-base font-semibold">
         5th - 8th Feb 2026
+      </div>
+    </div>
+  </a>
+
+   {/* Card 4 */}
+  <a
+    href="/images/.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="block"
+  >
+    <div
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300 p-6"
+      style={{
+        backgroundImage: "url('/images/undefined.png')",
+        backgroundPosition: "center",
+        backgroundSize: "cover",
+      }}
+    >
+      <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
+        Yamini Mohan
+      </div>
+
+      <div className="mt-3 text-zinc-300 uppercase text-base">
+        A Live Demonstration
+      </div>
+
+      <div className="mt-4 text-zinc-200 text-base font-semibold">
+        7th Feb, 2026
       </div>
     </div>
   </a>
