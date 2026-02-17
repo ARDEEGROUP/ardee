@@ -153,7 +153,7 @@ export default function CCA() {
 
   {/* Card 1 */}
   <a
-    href="/images/IAF.pdf"
+    href="/"
     target="_blank"
     rel="noopener noreferrer"
     className="block"
@@ -179,7 +179,7 @@ export default function CCA() {
 
   {/* Card 2 */}
   <a
-    href="/pdfs/kochi-biennale.pdf"
+    href="/images/IAF.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="block"
@@ -209,7 +209,7 @@ export default function CCA() {
 
   {/* Card 3 */}
   <a
-    href="/pdfs/india-art-fair.pdf"
+    href="/images/Kochi.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="block"
