@@ -153,7 +153,7 @@ export default function CCA() {
 
   {/* Card 1 */}
   <a
-    href="/pdfs/ardee-foundation.pdf"
+    href="/images/IAF.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="block"
