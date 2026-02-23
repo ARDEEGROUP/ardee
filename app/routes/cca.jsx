@@ -180,7 +180,7 @@ export default function CCA() {
     className="block"
   >
     <div
-      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300 p-6"
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-white hover:bg-dark-gradient transition-all duration-300 p-6"
       style={{
         backgroundImage: "url('/images/undefined.png')",
         backgroundPosition: "center",
@@ -210,7 +210,7 @@ export default function CCA() {
     className="block"
   >
     <div
-      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300 p-6"
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-white hover:bg-dark-gradient transition-all duration-300 p-6"
       style={{
         backgroundImage: "url('/images/undefined.png')",
         backgroundPosition: "center",
@@ -239,7 +239,7 @@ export default function CCA() {
     className="block"
   >
     <div
-      className="rounded-xl h-full relative border-2 border-transparent hover:border-zinc-400/50 hover:bg-dark-gradient transition-all duration-300 p-6"
+      className="rounded-xl h-full relative border-2 border-transparent hover:border-white hover:bg-dark-gradient transition-all duration-300 p-6"
       style={{
         backgroundImage: "url('/images/undefined.png')",
         backgroundPosition: "center",
