@@ -41,7 +41,7 @@ export default function RealEstateIndex() {
 
   // 🔹 Hotels → Open external link
   if (page.value === "hotels") {
-    window.open("https://www.theardeegroup.com/images/Yamini.pdf", "_blank", "noopener,noreferrer");
+    window.open("https://www.theardeegroup.com/images/hotel.pdf", "_blank", "noopener,noreferrer");
     return;
   }
 
