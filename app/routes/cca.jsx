@@ -177,7 +177,9 @@ export default function CCA() {
     href="/images/IAF.pdf"
   target="_blank"
   rel="noopener noreferrer"
-  className="block border border-transparent hover:border-white rounded-xl transition-all duration-300"
+  className="block rounded-xl border border-transparent transition-all duration-300"
+  onMouseEnter={e => e.currentTarget.style.borderColor = 'white'}
+  onMouseLeave={e => e.currentTarget.style.borderColor = 'transparent'}
 >
   <div
     className="rounded-xl h-full relative p-6"
@@ -198,8 +200,6 @@ export default function CCA() {
     </div>
   </div>
 </a>
-
-
   {/* Card 3 */}
   <a
     href="/images/Kochi.pdf"
