@@ -724,6 +724,18 @@ export const CCA_FEATURES = [
 
 export const NEWS_ARTICLES = [
    {
+    title: "India Art Fair 2026",
+    publishInfo: "5-8 February 2026",
+    publishingHouse: "Impluse",
+    magazineTitle: "Art and Culture",
+    magazineSubTitle: "Beyond the Booth: India Art Fair 2026",
+    pageInfo: "",
+    images: [
+      "news/impl",
+      
+    ],
+  },
+   {
     title: "The Ardee Foundation",
     publishInfo: "5-8 February 2026",
     publishingHouse: "Times Entertainment",
