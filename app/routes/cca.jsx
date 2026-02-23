@@ -274,7 +274,7 @@ export default function CCA() {
   <div className="flex flex-col md:flex-row gap-6 justify-center flex-wrap">
 
      {/* Box */}
-    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://impulsemagazine.com/symposium/beyond-the-booth-india-art-fair-2026?fbclid=PAZnRzaAQFJ7tleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacxWZUwmiQsBJpXL7UWROze41AAmd_kITt1Y2mpowCpqIzAs1noblnwLm3HSg_aem_qxeK3svPUDhuJ7vjquwNgg" target="_blank" rel="noopener noreferrer">
         <img
           src="images/imp.png"
@@ -287,7 +287,7 @@ export default function CCA() {
       </div>
     </div>
     {/* Box 1 */}
-    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://timesofindia.indiatimes.com/entertainment/events/ardee-foundation-unveils-ardee-legacy-awards-at-india-art-fair-2026/articleshow/127911430.cms" target="_blank" rel="noopener noreferrer">
         <img
           src="images/art-fair.png"
@@ -301,7 +301,7 @@ export default function CCA() {
     </div>
     
     {/* Box 1 */}
-    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://mediaexpress24.com/news/shefali-varma-joins-kochi-biennale-foundation-advisory-council/" target="_blank" rel="noopener noreferrer">
         <img
           src="images/svv.png"
@@ -315,7 +315,7 @@ export default function CCA() {
     </div>
 
     {/* Box 2 */}
-    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://www.hindustantimes.com/htcity/htcity-delhi-junction/from-kochi-to-delhi-the-ardee-foundations-expanding-canvas-101761990415265.html" target="_blank" rel="noopener noreferrer">
         <img
           src="images/hindu.png"
@@ -329,7 +329,7 @@ export default function CCA() {
     </div>
 
     {/* Box 3 */}
-    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://newsexperts.in/shefali-varma-extends-support-to-kochi-biennale-foundation-as-a-platinum-benefactor/" target="_blank" rel="noopener noreferrer">
         <img
           src="images/svnews.png"
@@ -342,7 +342,7 @@ export default function CCA() {
     </div>
     </div>
   {/* Box 4 */}
-    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/3">
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://www.businessdigestmagazine.org/index.php/general/item/6196-ardee-foundation-presents-shobha-broota-at-mocha-art-caf%C3%A9-for-kochi-muziris-biennale" target="_blank" rel="noopener noreferrer">
         <img
           src="images/shobha.png"
