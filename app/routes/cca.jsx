@@ -175,31 +175,29 @@ export default function CCA() {
   {/* Card 2 */}
   <a
     href="/images/IAF.pdf"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="block border border-transparent hover:border-white  transition-all duration-300"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="block border border-transparent hover:border-white rounded-xl transition-all duration-300"
+>
+  <div
+    className="rounded-xl h-full relative p-6"
+    style={{
+      backgroundImage: "url('/images/undefined.png')",
+      backgroundPosition: "center",
+      backgroundSize: "cover",
+    }}
   >
-    <div
-      className="rounded-xl h-full relative border-2 border-transparent hover:border-white hover:bg-dark-gradient transition-all duration-300 p-6"
-      style={{
-        backgroundImage: "url('/images/undefined.png')",
-        backgroundPosition: "center",
-        backgroundSize: "cover",
-      }}
-    >
-      <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
-        Kochi Muziris Biennale
-      </div>
-
-      <div className="mt-3 text-zinc-300 uppercase text-base">
-        Shobha Broota : The Lightness of Being
-      </div>
-
-      <div className="mt-4 text-zinc-200 text-base font-semibold">
-        December 2025 to March 2026
-      </div>
+    <div className="text-[min(1.75rem,5vw)] font-extrabold text-white">
+      Kochi Muziris Biennale
     </div>
-  </a>
+    <div className="mt-3 text-zinc-300 uppercase text-base">
+      Shobha Broota : The Lightness of Being
+    </div>
+    <div className="mt-4 text-zinc-200 text-base font-semibold">
+      December 2025 to March 2026
+    </div>
+  </div>
+</a>
 
 
   {/* Card 3 */}
