@@ -273,6 +273,19 @@ export default function CCA() {
   {/* Boxes */}
   <div className="flex flex-col md:flex-row gap-6 justify-center">
 
+     {/* Box */}
+    <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
+      <a href="https://impulsemagazine.com/symposium/beyond-the-booth-india-art-fair-2026?fbclid=PAZnRzaAQFJ7tleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacxWZUwmiQsBJpXL7UWROze41AAmd_kITt1Y2mpowCpqIzAs1noblnwLm3HSg_aem_qxeK3svPUDhuJ7vjquwNgg" target="_blank" rel="noopener noreferrer">
+        <img
+          src="images/imp.png"
+          alt="Service five"
+          className="w-full h-100 object-cover hover:scale-105 transition-transform duration-300"
+        />
+      </a>
+      <div className="p-4 text-center font-semibold">
+      IMPULSE Magazine
+      </div>
+    </div>
     {/* Box 1 */}
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden w-full md:w-1/4">
       <a href="https://timesofindia.indiatimes.com/entertainment/events/ardee-foundation-unveils-ardee-legacy-awards-at-india-art-fair-2026/articleshow/127911430.cms" target="_blank" rel="noopener noreferrer">
