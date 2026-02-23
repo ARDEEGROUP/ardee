@@ -283,7 +283,7 @@ export default function CCA() {
         />
       </a>
       <div className="p-4 text-center font-semibold">
-      IMPULSE Magazine
+      Impluse Magazine
       </div>
     </div>
     {/* Box 1 */}
