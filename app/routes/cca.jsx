@@ -205,7 +205,7 @@ export default function CCA() {
     href="/images/Kochi.pdf"
     target="_blank"
     rel="noopener noreferrer"
-    className="block border border-transparent hover:border-white  hover:border-2 hover:border-solid transition-all duration-300"
+    className="block border border-transparent hover:border-white  hover:border-2 hover:border-solid rounded-xl transition-all duration-300"
   >
     <div
       className="rounded-xl h-full relative border-2 border-transparent hover:border-white hover:bg-dark-gradient transition-all duration-300 p-6"
@@ -234,7 +234,7 @@ export default function CCA() {
     href="/images/Yamini.pdf"
     target="_blank"
     rel="noopener noreferrer"
-    className="block border border-transparent hover:border-white hover:border-2 hover:border-solid  transition-all duration-300"
+    className="block border border-transparent hover:border-white hover:border-2 hover:border-solid rounded-xl transition-all duration-300"
   >
     <div
       className="rounded-xl h-full relative border-2 border-transparent hover:border-white hover:bg-dark-gradient transition-all duration-300 p-6"
