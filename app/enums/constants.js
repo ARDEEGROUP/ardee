@@ -67,7 +67,7 @@ export const QUICK_LINKS = [
     iconKey: "shield-check",
   },
   {
-    label: "CCA",
+    label: "Ardee Foundation",
     to: "/cca",
     iconKey: "shield-check",
   },
