@@ -145,7 +145,7 @@ export const PAGES = [
     image: "hotel-3",
     description:
       "The Ardee Group has acquired prime land in the picturesque region of North Goa, marking its expansion into the hospitality sector.",
-    actionText: "Coming Soon",
+    actionText: "Know More",
   },
   {
     label: "Media",
