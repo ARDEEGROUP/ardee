@@ -506,7 +506,7 @@ export const TEAM_ARDEE_MASTERS_FEATURES = [
   //    "A part of the prestigious Ardee Group, a leading real estate firm, The Ardee Schools were founded in 2003. With award-winning campuses in Delhi, Gurugram, and Goa, they are known for their progressive approach to education, moving beyond conventional teaching methods.",
   //  icon: "academic-cap",
  //   isHeroIcon: true,
-  },
+ // },
   //{
    // label: "Expanding the Sports Curriculum",
    // subTitle: "Moving Beyond Mainstream Sports",
