@@ -495,11 +495,8 @@ export const TEAM_ARDEE_MASTERS_FEATURES = [
     label: "Pioneering Sports Education",
     subTitle: "India's First School-Owned Professional Golf Team",
     description:
-      "Team Ardee Masters is proudly owned by The Ardee Group, an institution with established verticals in real estate, education, sports, and the arts.",
-    "The Ardee Schools are among the few educational institutions in India to own a professional golf team at the prestigious Delhi Golf Club  — reflecting our larger vision of integrating sport, education, and culture.",
-    "Through this initiative, Ardee aims to redefine sports education, creating meaningful exposure to the values the sport embodies — including discipline, strategy, patience, and a global sporting culture.",
-    "Space, knowledge, culture, and sport — the pillars of the Ardee vision.",
-    "Team Ardee Masters brings them together on the course",
+      "Team Ardee Masters is proudly owned by The Ardee Group, an institution with established verticals in real estate, education, sports, and the arts.<br/> The Ardee Schools are among the few educational institutions in India to own a professional golf team at the prestigious Delhi Golf Club  — reflecting our larger vision of integrating sport, education, and culture.<br/> Through this initiative, Ardee aims to redefine sports education, creating meaningful exposure to the values the sport embodies — including discipline, strategy, patience, and a global sporting culture .<br/> Team Ardee Masters brings them together on the course. ",
+    
     icon: "trophy",
     isHeroIcon: true,
   },
