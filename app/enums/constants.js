@@ -495,49 +495,53 @@ export const TEAM_ARDEE_MASTERS_FEATURES = [
     label: "Pioneering Sports Education",
     subTitle: "India's First School-Owned Professional Golf Team",
     description:
-      "Team Ardee Masters is proudly owned by The Ardee School, New Delhi, making it the first school in India to own a professional golf team. This initiative underscores Ardee's dedication to redefining sports education and introducing students to impactful yet unconventional sporting disciplines.",
+      "Team Ardee Masters is proudly owned by The Ardee Group, an institution with established verticals in real estate, education, sports, and the arts.",
+    "The Ardee Schools are among the few educational institutions in India to own a professional golf team at the prestigious Delhi Golf Club  — reflecting our larger vision of integrating sport, education, and culture.",
+    "Through this initiative, Ardee aims to redefine sports education, creating meaningful exposure to the values the sport embodies — including discipline, strategy, patience, and a global sporting culture.",
+    "Space, knowledge, culture, and sport — the pillars of the Ardee vision.",
+    "Team Ardee Masters brings them together on the course",
     icon: "trophy",
     isHeroIcon: true,
   },
-  {
-    label: "A Legacy of Excellence",
-    subTitle: "Part of the Prestigious Ardee Group",
-    description:
-      "A part of the prestigious Ardee Group, a leading real estate firm, The Ardee Schools were founded in 2003. With award-winning campuses in Delhi, Gurugram, and Goa, they are known for their progressive approach to education, moving beyond conventional teaching methods.",
-    icon: "academic-cap",
-    isHeroIcon: true,
+ // {
+  //  label: "A Legacy of Excellence",
+  //  subTitle: "Part of the Prestigious Ardee Group",
+  //  description:
+  //    "A part of the prestigious Ardee Group, a leading real estate firm, The Ardee Schools were founded in 2003. With award-winning campuses in Delhi, Gurugram, and Goa, they are known for their progressive approach to education, moving beyond conventional teaching methods.",
+  //  icon: "academic-cap",
+ //   isHeroIcon: true,
   },
   {
-    label: "Expanding the Sports Curriculum",
-    subTitle: "Moving Beyond Mainstream Sports",
-    description:
-      "Like most urban schools, The Ardee Schools traditionally focused on mainstream sports like basketball, soccer, cricket, and swimming—mainly due to space constraints for golf. Recognizing this limitation, Ardee sought a way to introduce the sport to its students.",
-    icon: "clipboard-list",
-    isHeroIcon: true,
+   // label: "Expanding the Sports Curriculum",
+   // subTitle: "Moving Beyond Mainstream Sports",
+  //  description:
+  //    "Like most urban schools, The Ardee Schools traditionally focused on mainstream sports like basketball, soccer, cricket, and swimming—mainly due to space constraints for golf. Recognizing this limitation, Ardee sought a way to introduce the sport to its students.",
+  //  icon: "clipboard-list",
+  //  isHeroIcon: true,
   },
   {
-    label: "Embracing Golf Through the DGC League",
-    subTitle: "Aligning Sports with Educational Values",
-    description:
-      "True to Ardee's pioneering spirit, the institution saw the DGC League as an opportunity to integrate golf into its curriculum. Golf fosters discipline, concentration, teamwork, and networking—values that align with Ardee's educational philosophy.",
-    icon: "flag",
-    isHeroIcon: true,
+   // label: "Embracing Golf Through the DGC League",
+  //  subTitle: "Aligning Sports with Educational Values",
+  //  description:
+ //     "True to Ardee's pioneering spirit, the institution saw the DGC League as an opportunity to integrate golf into its curriculum. Golf fosters discipline, concentration, teamwork, and networking—values that align with Ardee's educational philosophy.",
+  //  icon: "flag",
+  //  isHeroIcon: true,
   },
   {
-    label: "Cultivating a Passion for Golf",
-    subTitle: "Encouraging Students to Explore the Sport",
-    description:
-      "Through Team Ardee Masters, the school aims to create awareness and enthusiasm for golf among its students, encouraging them to watch, explore, understand, and eventually participate in the game with their own team.",
-    icon: "users",
-    isHeroIcon: true,
+  //  label: "Cultivating a Passion for Golf",
+  //  subTitle: "Encouraging Students to Explore the Sport",
+  //  description:
+  //    "Through Team Ardee Masters, the school aims to create awareness and enthusiasm for golf among its students, encouraging them to watch, explore, understand, and eventually participate in the game with their own team.",
+  //  icon: "users",
+   // isHeroIcon: true,
   },
   {
-    label: "Pushing Boundaries in Sports Education",
-    subTitle: "Offering Unique Opportunities Beyond the Classroom",
-    description:
-      "By incorporating golf into its sports culture, Ardee continues to offer students a unique opportunity to develop skills that extend beyond the classroom—onto the greens and into the future.",
-    icon: "rocket-launch",
-    isHeroIcon: true,
+  //  label: "Pushing Boundaries in Sports Education",
+  //  subTitle: "Offering Unique Opportunities Beyond the Classroom",
+  //  description:
+ //     "By incorporating golf into its sports culture, Ardee continues to offer students a unique opportunity to develop skills that extend beyond the classroom—onto the greens and into the future.",
+ //   icon: "rocket-launch",
+ //   isHeroIcon: true,
   },
 ];
 
