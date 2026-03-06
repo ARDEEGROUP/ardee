@@ -511,38 +511,38 @@ export const TEAM_ARDEE_MASTERS_FEATURES = [
   //  icon: "academic-cap",
  //   isHeroIcon: true,
   },
-  {
+  //{
    // label: "Expanding the Sports Curriculum",
    // subTitle: "Moving Beyond Mainstream Sports",
   //  description:
   //    "Like most urban schools, The Ardee Schools traditionally focused on mainstream sports like basketball, soccer, cricket, and swimming—mainly due to space constraints for golf. Recognizing this limitation, Ardee sought a way to introduce the sport to its students.",
   //  icon: "clipboard-list",
   //  isHeroIcon: true,
-  },
-  {
+ // },
+ // {
    // label: "Embracing Golf Through the DGC League",
   //  subTitle: "Aligning Sports with Educational Values",
   //  description:
  //     "True to Ardee's pioneering spirit, the institution saw the DGC League as an opportunity to integrate golf into its curriculum. Golf fosters discipline, concentration, teamwork, and networking—values that align with Ardee's educational philosophy.",
   //  icon: "flag",
   //  isHeroIcon: true,
-  },
-  {
+ // },
+ // {
   //  label: "Cultivating a Passion for Golf",
   //  subTitle: "Encouraging Students to Explore the Sport",
   //  description:
   //    "Through Team Ardee Masters, the school aims to create awareness and enthusiasm for golf among its students, encouraging them to watch, explore, understand, and eventually participate in the game with their own team.",
   //  icon: "users",
    // isHeroIcon: true,
-  },
-  {
+ // },
+ // {
   //  label: "Pushing Boundaries in Sports Education",
   //  subTitle: "Offering Unique Opportunities Beyond the Classroom",
   //  description:
  //     "By incorporating golf into its sports culture, Ardee continues to offer students a unique opportunity to develop skills that extend beyond the classroom—onto the greens and into the future.",
  //   icon: "rocket-launch",
  //   isHeroIcon: true,
-  },
+ // },
 ];
 
 export const ARDEE_RACQUET_CLUB_FEATURES = [
