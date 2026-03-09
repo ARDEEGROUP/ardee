@@ -42,7 +42,7 @@ export default function Sports() {
   const ardeeMastersImages = [
     "sports/one",
     "sports/twwo",
-    "sports/three",
+    "sports/threee",
     "sports/ardee-masters-1",
     "sports/ardee-masters-2",
     "sports/ardee-masters-3",
