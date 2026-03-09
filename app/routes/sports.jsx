@@ -40,6 +40,9 @@ export const meta = () => {
 export default function Sports() {
   const { user } = useSelector((state) => state.auth);
   const ardeeMastersImages = [
+    "sports/one",
+    "sports/twwo",
+    "sports/three",
     "sports/ardee-masters-1",
     "sports/ardee-masters-2",
     "sports/ardee-masters-3",
